@@ -19,3 +19,6 @@ public class Application extends SpringBootServletInitializer{ //Extends on Jbos
         SpringApplication.run(Application.class, args);
     }
 }
+
+
+//http://dev.macero.es/2015/06/07/how-to-deploy-a-spring-boot-war-in-wildfly-jboss/
